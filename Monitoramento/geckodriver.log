@@ -1,0 +1,639 @@
+1701467936279	geckodriver	INFO	Listening on 127.0.0.1:57594
+1701467939342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofilepi7A1g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701467939832	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701467939982	Marionette	INFO	Listening on port 57603
+WebDriver BiDi listening on ws://127.0.0.1:57595
+Read port: 57603
+1701467940261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57595/devtools/browser/497380d1-6474-4197-a977-d180543c19bf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701467969862	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+emote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofile6oojs3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701467953925	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701467954063	Marionette	INFO	Listening on port 57656
+WebDriver BiDi listening on ws://127.0.0.1:57641
+Read port: 57656
+1701467954278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57641/devtools/browser/0cee0a09-dc14-4d5e-9538-7627be7f83cf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp1nCTe5CwuSRF3auaRD2xnUdgUYS1nSvrPoHhqJqyfMr18yyjDx061g6DR3zXFuhWelxaOv7Q&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1309244375%3A1701467957754937&theme=glif line 190 > injectedScript line 2 > eval line 7403 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp1nCTe5CwuSRF3auaRD2xnUdgUYS1nSvrPoHhqJqyfMr18yyjDx061g6DR3zXFuhWelxaOv7Q&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1309244375%3A1701467957754937&theme=glif line 190 > injectedScript line 2 > eval line 1001 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701467983970	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1701468017216	geckodriver	INFO	Listening on 127.0.0.1:57747
+1701468020298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57748" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileo4TRxU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701468020665	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701468020797	Marionette	INFO	Listening on port 57755
+WebDriver BiDi listening on ws://127.0.0.1:57748
+Read port: 57755
+1701468021014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57748/devtools/browser/d7f33dc8-eba5-4433-becb-e79b6d51f223
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701468050708	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+ugging-port" "57794" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofilexJXDIq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701468034441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701468034573	Marionette	INFO	Listening on port 57805
+WebDriver BiDi listening on ws://127.0.0.1:57794
+Read port: 57805
+1701468034789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57794/devtools/browser/8da2529b-b944-49bd-9bce-6121fbb966ce
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp1_FrgCINz7TUVqQtHCl2FyoK2ipe3kxeRhUGCYMZExuzNjOlb7cTqvJnzTNg0_u3l8DctK&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S654861234%3A1701468038244213&theme=glif line 190 > injectedScript line 2 > eval line 6233 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp1_FrgCINz7TUVqQtHCl2FyoK2ipe3kxeRhUGCYMZExuzNjOlb7cTqvJnzTNg0_u3l8DctK&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S654861234%3A1701468038244213&theme=glif line 190 > injectedScript line 2 > eval line 5868 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701468064495	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701468157736	geckodriver	INFO	Listening on 127.0.0.1:57938
+1701468160801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileusiveR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701468161149	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701468161283	Marionette	INFO	Listening on port 57946
+WebDriver BiDi listening on ws://127.0.0.1:57939
+Read port: 57946
+1701468161501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57939/devtools/browser/e283777a-234f-42ae-8f6a-3cec09f84453
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701468191181	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+ugging-port" "57988" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofile3IUbjN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701468174962	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701468175096	Marionette	INFO	Listening on port 57996
+WebDriver BiDi listening on ws://127.0.0.1:57988
+Read port: 57996
+1701468175318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57988/devtools/browser/d7e26f92-0a52-44b8-b2d2-25bac62a78eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp0SVHgvVRsBOOpYcAkg9ygIKeCkNQCZ2XXinVzkolQOf88ElalxLCmu2TQXmLKU7fy_WqMdXA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1460229005%3A1701468178762798&theme=glif line 190 > injectedScript line 2 > eval line 698 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp0SVHgvVRsBOOpYcAkg9ygIKeCkNQCZ2XXinVzkolQOf88ElalxLCmu2TQXmLKU7fy_WqMdXA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1460229005%3A1701468178762798&theme=glif line 190 > injectedScript line 2 > eval line 6968 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701468204989	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[GFX1[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+1701468337198	geckodriver	INFO	Listening on 127.0.0.1:58137
+1701468340255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileO5zsHp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701468340608	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701468340741	Marionette	INFO	Listening on port 58145
+WebDriver BiDi listening on ws://127.0.0.1:58138
+Read port: 58145
+1701468340961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58138/devtools/browser/d6aa3373-92c6-4124-b0d6-8a994997d11c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701468370674	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+ugging-port" "58187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileda0no9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701468359341	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701468359473	Marionette	INFO	Listening on port 58194
+WebDriver BiDi listening on ws://127.0.0.1:58187
+Read port: 58194
+1701468359679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58187/devtools/browser/ba81e437-3b78-43ad-ae12-803d5819def3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp14oUV__avmWoKbEYNtU7Mv0rMwthS1eqhrB7DGnc93zB2qbEMTl_qb0gihgV3PsbY5AKzP&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-234368402%3A1701468363133588&theme=glif line 190 > injectedScript line 2 > eval line 3836 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp14oUV__avmWoKbEYNtU7Mv0rMwthS1eqhrB7DGnc93zB2qbEMTl_qb0gihgV3PsbY5AKzP&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-234368402%3A1701468363133588&theme=glif line 190 > injectedScript line 2 > eval line 4920 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701468389391	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701686724076	geckodriver	INFO	Listening on 127.0.0.1:62843
+1701686727112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62844" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileL3H18n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701686727458	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701686727591	Marionette	INFO	Listening on port 62852
+WebDriver BiDi listening on ws://127.0.0.1:62844
+Read port: 62852
+1701686727834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62844/devtools/browser/a85dbeb3-7b41-43db-86f4-8bf29a6b1b5b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701686757525	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701773156703	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: http://172.20.5.29:3000/public/build/8529.b3dfddc6fd02071e1fbf.js, line 2: Script terminated by timeout at:
+Yt@http://172.20.5.29:3000/public/build/8529.b3dfddc6fd02071e1fbf.js:2:1980952
+
+1701777255905	Marionette	INFO	Stopped listening on port 62852
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+:62893
+Read port: 62904
+1701686747072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62893/devtools/browser/4039d402-ff4d-41f9-a8c4-92c1018a2ec8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp2Tt6LQlmp_a27QbuCRzSxhgpP4PkoCsxPCGIVfuhdQ8xW5jdWF_hcKAwAeQ7v5nwdVHr1AjA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1124667130%3A1701686749996089&theme=glif line 190 > injectedScript line 2 > eval line 2104 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp2Tt6LQlmp_a27QbuCRzSxhgpP4PkoCsxPCGIVfuhdQ8xW5jdWF_hcKAwAeQ7v5nwdVHr1AjA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1124667130%3A1701686749996089&theme=glif line 190 > injectedScript line 2 > eval line 2123 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701686776675	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701773176780	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.pt_BR.h1q5QetUHZs.es5.O/am=DmBIGwAC/d=1/excm=_b,_tp,accountmenuview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHtkXfGBw05blT7m1JmtlgNNnM3IAQ/m=_b,_tp, line 237: Script terminated by timeout at:
+c@https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.pt_BR.h1q5QetUHZs.es5.O/am=DmBIGwAC/d=1/excm=_b,_tp,accountmenuview/ed=1/dg=0/wt=2/ujg=1/rs=AM-SdHtkXfGBw05blT7m1JmtlgNNnM3IAQ/m=_b,_tp:237:187
+
+1701777256942	Marionette	INFO	Stopped listening on port 62904
+Dynamically enable window occlusion 1
+1701777273114	geckodriver	INFO	Listening on 127.0.0.1:54220
+1701777276231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileYNGT2j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701777276949	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701777277078	Marionette	INFO	Listening on port 54230
+WebDriver BiDi listening on ws://127.0.0.1:54221
+Read port: 54230
+1701777277277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54221/devtools/browser/178e5fc3-9525-4aa8-b63c-d119d2938f78
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701777307011	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+ugging-port" "54269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofile5dY2KV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701777296063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701777296194	Marionette	INFO	Listening on port 54278
+WebDriver BiDi listening on ws://127.0.0.1:54269
+Read port: 54278
+1701777296398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54269/devtools/browser/17b51cdf-bd2c-4ea1-a40c-8b06ab11224a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp12vV0XN1hDwCnFz5GfjUJPbsL-ibnZ7TXg0iAauYTz43reNHEP-fLuKIvcsL6POyn-k4TJZA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1057927940%3A1701777299561348&theme=glif line 190 > injectedScript line 2 > eval line 6973 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp12vV0XN1hDwCnFz5GfjUJPbsL-ibnZ7TXg0iAauYTz43reNHEP-fLuKIvcsL6POyn-k4TJZA&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1057927940%3A1701777299561348&theme=glif line 190 > injectedScript line 2 > eval line 5749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701777326113	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1701777452650	geckodriver	INFO	Listening on 127.0.0.1:54376
+1701777455719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofilekM6td1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701777456074	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701777456200	Marionette	INFO	Listening on port 54387
+WebDriver BiDi listening on ws://127.0.0.1:54377
+Read port: 54387
+1701777456412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54377/devtools/browser/9277045a-a70b-4521-86c8-ea346490fa7d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701777486156	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "--remote-debugging-port" "54425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileTIzUkz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701777474907	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701777475036	Marionette	INFO	Listening on port 54433
+WebDriver BiDi listening on ws://127.0.0.1:54425
+Read port: 54433
+1701777475243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54425/devtools/browser/11d50dcf-6a0c-4194-bc0c-46e5bdaefb74
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp0rskeFPwZf7Vm5hIMoTCQ928E8TgtDrE-jLMnVSNaJvOq-7NxSoPkmt2JN47bFFUxA9O84lQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-737808413%3A1701777477826763&theme=glif line 190 > injectedScript line 2 > eval line 4459 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp0rskeFPwZf7Vm5hIMoTCQ928E8TgtDrE-jLMnVSNaJvOq-7NxSoPkmt2JN47bFFUxA9O84lQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-737808413%3A1701777477826763&theme=glif line 190 > injectedScript line 2 > eval line 3343 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701777504952	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701777527220	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:466:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:219:33
+Exiting due to channel error.
+Exiting due to channel error.
+1701862993092	geckodriver	INFO	Listening on 127.0.0.1:53709
+1701862996206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53710" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileh3AhS7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701862996936	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701862997063	Marionette	INFO	Listening on port 53717
+WebDriver BiDi listening on ws://127.0.0.1:53710
+Read port: 53717
+1701862997268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53710/devtools/browser/ebb5322b-99f8-4f44-ae09-fbd797330975
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701863027002	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701949427199	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701949658488	Marionette	INFO	Stopped listening on port 53717
+Dynamically enable window occlusion 1
+
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701863015875	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701863016006	Marionette	INFO	Listening on port 53766
+WebDriver BiDi listening on ws://127.0.0.1:53759
+Read port: 53766
+1701863016209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53759/devtools/browser/311fe9f5-3ab8-4406-b4f6-1f4f3e358037
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp2aVPPJOX0HesJ7HShhWg3hU9OrmcilLRM0SE-5m4-JlcEGB_PwvaXYtlV3y3T6Z1Afyw3rpQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S906589636%3A1701863019625795&theme=glif line 190 > injectedScript line 2 > eval line 5428 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp2aVPPJOX0HesJ7HShhWg3hU9OrmcilLRM0SE-5m4-JlcEGB_PwvaXYtlV3y3T6Z1Afyw3rpQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S906589636%3A1701863019625795&theme=glif line 190 > injectedScript line 2 > eval line 6521 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701863045916	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1701949446018	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1701949654941	Marionette	INFO	Stopped listening on port 53766
+Dynamically enable window occlusion 1
+1701949668816	geckodriver	INFO	Listening on 127.0.0.1:53983
+1701949671909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileHHW1Nr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701949672649	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701949672776	Marionette	INFO	Listening on port 53994
+WebDriver BiDi listening on ws://127.0.0.1:53984
+Read port: 53994
+1701949672967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53984/devtools/browser/82578510-1a9e-489b-af69-2cfee748fb5e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701949702702	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+emote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileFB8pnt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701949691568	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701949691701	Marionette	INFO	Listening on port 54041
+WebDriver BiDi listening on ws://127.0.0.1:54032
+Read port: 54041
+1701949691910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54032/devtools/browser/f8ca7fb7-0974-484d-afe6-d903b9de525d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp35WiXFvSBGQjj3ykWq8sypDxB1TwgYv4kU-CtfAFoMI7ReCyEpRmgZhYXDtpUMoVmnXm0U&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1861766284%3A1701949695076406&theme=glif line 190 > injectedScript line 2 > eval line 2344 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp35WiXFvSBGQjj3ykWq8sypDxB1TwgYv4kU-CtfAFoMI7ReCyEpRmgZhYXDtpUMoVmnXm0U&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1861766284%3A1701949695076406&theme=glif line 190 > injectedScript line 2 > eval line 2751 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701949721598	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1701968164209	geckodriver	INFO	Listening on 127.0.0.1:57343
+1701968167299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57344" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileTBHOfq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701968167666	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701968167801	Marionette	INFO	Listening on port 57351
+WebDriver BiDi listening on ws://127.0.0.1:57344
+Read port: 57351
+1701968168019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57344/devtools/browser/84948ff2-b3a7-4754-9edd-9f1b363485d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701968197779	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "--remote-debugging-port" "57392" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileAJhQHo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701968186628	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701968186761	Marionette	INFO	Listening on port 57399
+WebDriver BiDi listening on ws://127.0.0.1:57392
+Read port: 57399
+1701968186988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57392/devtools/browser/f301f9c8-fb8f-4cc2-a767-f106af56b0d3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp0UkLcdLhls7MIGcE1rrgvJ-4LNBVvuipxFs89JmMft4-X1X6yYOqyQ3IcIASZkGtxSKsDP&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-536575740%3A1701968190135323&theme=glif line 190 > injectedScript line 2 > eval line 7628 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp0UkLcdLhls7MIGcE1rrgvJ-4LNBVvuipxFs89JmMft4-X1X6yYOqyQ3IcIASZkGtxSKsDP&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-536575740%3A1701968190135323&theme=glif line 190 > injectedScript line 2 > eval line 7319 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1701968217799	geckodriver	INFO	Listening on 127.0.0.1:57471
+1701968220859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofilersNnVo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701968221217	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701968221351	Marionette	INFO	Listening on port 57479
+WebDriver BiDi listening on ws://127.0.0.1:57472
+Read port: 57479
+1701968221557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57472/devtools/browser/fd93f5a6-4f8f-44ad-b918-ee2345558b78
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701968251276	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+emote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofilene4Ygq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701968240106	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701968240238	Marionette	INFO	Listening on port 57527
+WebDriver BiDi listening on ws://127.0.0.1:57520
+Read port: 57527
+1701968240444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57520/devtools/browser/17f8066f-230a-4105-b639-dd1b457a4873
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp3-cJfq_pd90RhGh0sXCJ8RenDRnyaOrx6dxs6xtwg37IVWducne-z0IRYkKQ-cs-aPMOELcg&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458892037%3A1701968243464652&theme=glif line 190 > injectedScript line 2 > eval line 2662 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp3-cJfq_pd90RhGh0sXCJ8RenDRnyaOrx6dxs6xtwg37IVWducne-z0IRYkKQ-cs-aPMOELcg&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1458892037%3A1701968243464652&theme=glif line 190 > injectedScript line 2 > eval line 174 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701968270148	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1701968474143	geckodriver	INFO	Listening on 127.0.0.1:57641
+1701968477221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofile1mtjeQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701968477650	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701968477781	Marionette	INFO	Listening on port 57649
+WebDriver BiDi listening on ws://127.0.0.1:57642
+Read port: 57649
+1701968477969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57642/devtools/browser/327e187b-46c0-4c2f-b62e-e1e77e3ffb47
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+Exiting due to channel error.
+Exiting due to channel error.
+1701968500548	geckodriver	INFO	Listening on 127.0.0.1:57695
+1701968503609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileR626tM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701968503963	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701968504098	Marionette	INFO	Listening on port 57706
+WebDriver BiDi listening on ws://127.0.0.1:57696
+Read port: 57706
+1701968504316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57696/devtools/browser/87f7e967-3abb-43e4-911a-daab142abd72
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1701968534022	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "--remote-debugging-port" "57745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofile8xzUkM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1701968522767	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1701968522901	Marionette	INFO	Listening on port 57755
+WebDriver BiDi listening on ws://127.0.0.1:57745
+Read port: 57755
+1701968523117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57745/devtools/browser/6fc6a2d2-e666-420f-8dc3-5e39bfc4793c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp02Vil0LIHdtV91j3vfrOdsPOP9vAY2VpNxaQ7onzIZTikzdBENhb20KcU-4a2Tcb_cielb&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1861766284%3A1701968526261808&theme=glif line 190 > injectedScript line 2 > eval line 275 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp02Vil0LIHdtV91j3vfrOdsPOP9vAY2VpNxaQ7onzIZTikzdBENhb20KcU-4a2Tcb_cielb&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1861766284%3A1701968526261808&theme=glif line 190 > injectedScript line 2 > eval line 2977 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1701968552796	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1702037049575	geckodriver	INFO	Listening on 127.0.0.1:52725
+1702037052656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52726" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofiletZbZ9A"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702037053553	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702037053742	Marionette	INFO	Listening on port 52733
+WebDriver BiDi listening on ws://127.0.0.1:52726
+Read port: 52733
+1702037054003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52726/devtools/browser/eff25408-8933-4b00-88fd-be15fea923f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1702037083621	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "--remote-debugging-port" "52774" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofilexTSlkf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702037072824	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702037072950	Marionette	INFO	Listening on port 52781
+WebDriver BiDi listening on ws://127.0.0.1:52774
+Read port: 52781
+1702037073027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52774/devtools/browser/a050fcac-7a5e-486c-b3ac-e298971fc35b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp1lwvzvr8Hp0RIv_5bZyahZ3IJB8TxsfqqpRvwSz6qFMlNNGqBFTTAujnHLyhz3LDPbtXOo&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S620817883%3A1702037076117012&theme=glif line 190 > injectedScript line 2 > eval line 1544 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp1lwvzvr8Hp0RIv_5bZyahZ3IJB8TxsfqqpRvwSz6qFMlNNGqBFTTAujnHLyhz3LDPbtXOo&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S620817883%3A1702037076117012&theme=glif line 190 > injectedScript line 2 > eval line 7176 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1702037102863	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1702038175379	geckodriver	INFO	Listening on 127.0.0.1:53090
+1702038178440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileAk5gy1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702038178828	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702038178961	Marionette	INFO	Listening on port 53098
+WebDriver BiDi listening on ws://127.0.0.1:53091
+Read port: 53098
+1702038179173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53091/devtools/browser/1d67013a-c6cd-4852-a8e1-fac5440c484f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1702038208875	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+ugging-port" "53139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofilezconLD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702038197701	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702038197837	Marionette	INFO	Listening on port 53146
+WebDriver BiDi listening on ws://127.0.0.1:53139
+Read port: 53146
+1702038198049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53139/devtools/browser/cd3622a8-7749-4e5d-8d6f-d64cb5b61e03
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp2CJKf88S0ZG6YZg0p_UtYivETUIDHlCBSRtz96YWyahC4Ng9GgGxq_8AVCA4CkBR46adwb&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1593029992%3A1702038201058272&theme=glif line 190 > injectedScript line 2 > eval line 3677 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp2CJKf88S0ZG6YZg0p_UtYivETUIDHlCBSRtz96YWyahC4Ng9GgGxq_8AVCA4CkBR46adwb&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1593029992%3A1702038201058272&theme=glif line 190 > injectedScript line 2 > eval line 5341 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1702038227764	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702038231175	Marionette	INFO	Stopped listening on port 53146
+Dynamically enable window occlusion 1
+1702038281431	geckodriver	INFO	Listening on 127.0.0.1:53247
+1702038284462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofilebgSCJH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702038284823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702038284962	Marionette	INFO	Listening on port 53255
+WebDriver BiDi listening on ws://127.0.0.1:53248
+Read port: 53255
+1702038285204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53248/devtools/browser/2ab3def2-7c4e-44e7-8209-f4bd282d262e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1702038314891	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702038344127	Marionette	INFO	Stopped listening on port 53255
+Dynamically enable window occlusion 1
+profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileiph8ZI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702038303632	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702038303762	Marionette	INFO	Listening on port 53305
+WebDriver BiDi listening on ws://127.0.0.1:53298
+Read port: 53305
+1702038303980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53298/devtools/browser/cc7c00b8-fcd3-4328-bbef-3adafabcefaf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp3WaM_alYz-G3rVjfO6CVH_375ZOE5C4GmpqBJwFhJKye1S0-AXqMiBgbceV-cUL26n9XdVDw&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1022722969%3A1702038306936910&theme=glif line 190 > injectedScript line 2 > eval line 4927 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp3WaM_alYz-G3rVjfO6CVH_375ZOE5C4GmpqBJwFhJKye1S0-AXqMiBgbceV-cUL26n9XdVDw&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1022722969%3A1702038306936910&theme=glif line 190 > injectedScript line 2 > eval line 1852 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1702038333659	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1702038347148	Marionette	INFO	Stopped listening on port 53305
+Dynamically enable window occlusion 1
+1702038367841	geckodriver	INFO	Listening on 127.0.0.1:53388
+1702038370896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofilebhaQSV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702038371245	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702038371376	Marionette	INFO	Listening on port 53399
+WebDriver BiDi listening on ws://127.0.0.1:53389
+Read port: 53399
+1702038371578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53389/devtools/browser/a1910172-2480-4bca-9b87-4aa85a27f0b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1702038401319	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileoUEQs2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702038390025	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702038390160	Marionette	INFO	Listening on port 53448
+WebDriver BiDi listening on ws://127.0.0.1:53438
+Read port: 53448
+1702038390370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53438/devtools/browser/f5ba984c-c6cb-4964-b9d7-8f022795cd92
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp2-LEru6POyrOiqFgoEKIBTKqYSWUvcPHBKIxuk8-Sk_MdviaSe--agzU9g6GEQCGX2A0WAww&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S604726350%3A1702038393313862&theme=glif line 190 > injectedScript line 2 > eval line 1431 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1702038420064	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1702038466467	geckodriver	INFO	Listening on 127.0.0.1:53547
+1702038469535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileA8P9Zh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702038469892	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702038470022	Marionette	INFO	Listening on port 53558
+WebDriver BiDi listening on ws://127.0.0.1:53548
+Read port: 53558
+1702038470228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53548/devtools/browser/833d3ad1-8986-47c5-a50c-a3593db6e7bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1702038499950	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofilew2wl4M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702038488667	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702038488806	Marionette	INFO	Listening on port 53606
+WebDriver BiDi listening on ws://127.0.0.1:53596
+Read port: 53606
+1702038489028	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53596/devtools/browser/51db2237-d154-45ed-a13c-c771b2b88731
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp0fEoM2yNYgDhcCOYI_77bx2Q52gPxc0xqEHcgaG-TX44hLiqBkgHkUsmdOhWi6c6boCz6wdQ&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1593029992%3A1702038491989658&theme=glif line 190 > injectedScript line 2 > eval line 7624 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1702038518709	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+1702038740441	geckodriver	INFO	Listening on 127.0.0.1:53733
+1702038743516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileRWqkMH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702038743866	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702038744000	Marionette	INFO	Listening on port 53742
+WebDriver BiDi listening on ws://127.0.0.1:53734
+Read port: 53742
+1702038744214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53734/devtools/browser/fe03cb57-77e4-480f-ae98-9d460a996401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://172.20.5.29:3000."
+1702038773922	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+e" "--marionette" "--remote-debugging-port" "53788" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\snews\\AppData\\Local\\Temp\\rust_mozprofileme3wvd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1702038762827	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1702038762963	Marionette	INFO	Listening on port 53795
+WebDriver BiDi listening on ws://127.0.0.1:53788
+Read port: 53795
+1702038763181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53788/devtools/browser/c38078b7-3b6d-4e13-be6a-37fcadd654a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp2E8B2kfuBX-c-OIWF1sz096IsuFP5QEzIcSSxob_NTy6EhK3wL3AqGLrl1AV_COYtHZ3Bl&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1343155630%3A1702038766085898&theme=glif line 190 > injectedScript line 2 > eval line 6056 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&followup=https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1L6CSzKrrL1adezI2svr3D4bj_sTo_yU%26ll%3D-3.702577904986125%2C-57.75960225%26z%3D3&ifkv=ASKXGp2E8B2kfuBX-c-OIWF1sz096IsuFP5QEzIcSSxob_NTy6EhK3wL3AqGLrl1AV_COYtHZ3Bl&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1343155630%3A1702038766085898&theme=glif line 190 > injectedScript line 2 > eval line 874 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+1702038792873	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
