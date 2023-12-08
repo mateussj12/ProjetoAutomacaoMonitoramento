@@ -15,7 +15,6 @@ def main():
     """)
     print("""
     Estado: Brasilia - DF 
-    Author: Snews
     Desenvolvedor responsável: Mateus Santos de Jesus
     Objetivo: Esse script tem por objetivo automatizar o fluxo de abertura e de acessos dos 
     sistemas de monitoramento que possuímos atualamente. 
