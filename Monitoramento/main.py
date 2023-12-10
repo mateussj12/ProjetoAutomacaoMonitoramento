@@ -15,7 +15,7 @@ def main():
                                                  
     """)
     print("""
-    **Estado**: Brasilia - DF 
+    **Estado**: Brasília - DF 
     **Desenvolvedor responsável**: Mateus Santos de Jesus
     **Objetivo**: Esse script chama duas funções, zabbix() e mapa(), e executa de forma respectiva. 
     A função Zabbix executa um script que iniciliaza o sistema de monitoramento zabbix para acompanhar a infraestrutura.
