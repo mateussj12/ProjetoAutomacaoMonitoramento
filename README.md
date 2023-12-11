@@ -11,10 +11,23 @@ além de executar e configurar um mapa particular, desenvolvido através da API 
 ### Estrutura de pastas:
 ```
 .
+│   geckodriver.log
+│   main.py
 ├───env
+│       .env
 ├───geckodriver-v0.33.0-win64
+│       geckodriver.exe
 ├───Mapa
+│   │   mapa.py
 │   └───__pycache__
+│           mapa.cpython-311.pyc
 └───Zabbix
+    │   geckodriver.log
+    │   zabbix.py
     └───__pycache__
+            zabbix.cpython-311.pyc
 ```
+
+### Considerações finais:
+- **@Desenvolvedor:** Mateus Santos de Jesus
+- **@Linkedin:** https://www.linkedin.com/in/mateus-santos-de-jesus-9819a8186
